@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212030091628",
+    "project_id": "travelapp-bcb5d",
+    "storage_bucket": "travelapp-bcb5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212030091628:android:a53319eb7a185ca05ac349",
+        "android_client_info": {
+          "package_name": "com.manan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212030091628-5th7stt3gmf967mnej8jo426ftcevm61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manan.app",
+            "certificate_hash": "e6a4bac79b9bd03660df9b26c81d214d7ad08d63"
+          }
+        },
+        {
+          "client_id": "212030091628-mjuiirv92545l7mhqlc31mu67mvfm5f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6K-qeSuoc-LHDVTqGX5C08P4-c1xkMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212030091628-mjuiirv92545l7mhqlc31mu67mvfm5f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
